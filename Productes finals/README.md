@@ -10,4 +10,4 @@ En aquesta carpeta trobaràs tots els **productes acabats** que he anat creant d
 - 📂 **Organització clara:** tot classificat i etiquetat perquè sigui fàcil trobar cada element.  
 - ✅ **Referència de qualitat:** per veure com ha evolucionat el projecte i quins resultats s’han aconseguit.  
 
-Aquesta carpeta serveix com a **resum final del projecte**, permetent tenir tots els productes finals accessibles en un sol lloc, de manera clara
+Aquesta carpeta serveix com a **resum final del projecte**, permetent tenir tots els productes finals accessibles en un sol lloc, de manera clara i accesible.
