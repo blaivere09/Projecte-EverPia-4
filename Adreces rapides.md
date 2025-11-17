@@ -27,16 +27,16 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 
 [Tasca9](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T09)
 
-[Tasca10]()
+[Tasca10](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T10)
 
-[Tasca11]()
+[Tasca11](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T11)
 
-[Tasca12]()
+[Tasca12](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T12)
 
-[Tasca13]()
+[Tasca13](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13)
 
-[Tascaº4]()
+[Tascaº4](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14)
 
-[Tasca15]()
+[Tasca15](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15)
 
 
