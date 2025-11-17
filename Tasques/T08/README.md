@@ -54,4 +54,6 @@ Ha arribat el dia de demostrar el vostre nivell **SOP Specialist**:
 - Superareu un exigent **examen pràctic** que posarà a prova els vostres coneixements  
 - Podreu portar **únicament un full manuscrit** amb les anotacions que considereu necessàries
 
-
+<p align="center">
+  <img src="img/capt1.png" alt="Descripció">
+</p>
