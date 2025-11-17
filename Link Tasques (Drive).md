@@ -6,6 +6,6 @@ Aquesta carpeta està organitzada per a que puguis consultar i revisar cada acti
 
 # 📂 Carpeta general del meu drive
 
-[Text que vols mostrar](https://drive.google.com/drive/folders/1veL61lSKg43Y1Q6s9EVei0OuFfDER311)
+[CARPETA PROJECTE $ EVERPIA](https://drive.google.com/drive/folders/1veL61lSKg43Y1Q6s9EVei0OuFfDER311)
 
 
