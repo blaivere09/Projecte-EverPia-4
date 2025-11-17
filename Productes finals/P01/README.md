@@ -12,6 +12,10 @@ En aquesta activitat, simularem el nostre procés d'**Onboarding** (incorporaci�
 
 El vostre objectiu no és només pujar un arxiu, sinó **dominar el flux de treball col·laboratiu de Git**, incloent forks i pull requests. Aquesta és una de les habilitats més demandades al sector.
 
+<p align="center">
+  <img src="img/capt1.png" alt="Descripció">
+</p>
+
 ---
 
 ## Flux de Treball de GitHub a EverPia
