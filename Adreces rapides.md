@@ -40,8 +40,8 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 | Nº Producte | Nom del Producte       | Enllaç |
 |-------------|----------------------|--------|
 | 01          | Producte Final 1      | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Productes%20finals/P01) |
-| 02          | Producte Final 2      | [Accedeix](https://exemple.com/producte2) |
-| 03          | Producte Final 3      | [Accedeix](https://exemple.com/producte3) |
+| 02          | Producte Final 2      | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Productes%20finals/P02) |
+| 03          | Producte Final 3      | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Productes%20finals/P03) |
 
 
 
