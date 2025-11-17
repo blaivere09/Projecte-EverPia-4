@@ -1,1 +1,12 @@
+# 📂 Adreces Ràpides
+
+Benvingut/da a la carpeta **Adreces Ràpides**!  
+
+Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **ràpidament** a les tasques i productes finals. L’objectiu és que puguis:
+
+- 📄 **Revisar** els treballs sense perdre temps buscant-los.
+- ✏️ **Corregir** o aportar comentaris fàcilment.
+- ⚡ **Accedir de manera immediata** als recursos més importants.
+
+Mantingues aquest espai com a punt de referència per tenir tot **organitzat, clar i a mà**!  
 
