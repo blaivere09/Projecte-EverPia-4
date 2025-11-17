@@ -7,7 +7,7 @@ A les consultores, la trajectòria professional segueix un patró gairebé unive
 **Qui entra com a júnior ho fa sense saber gaire què s’hi trobarà, però en surt transformat.**
 <p align="center">
   <img src="![captura1](img/capt1.png)
-" alt="Descripció">
+" alt="![captura1](img/capt1.png)">
 </p>
 
 
