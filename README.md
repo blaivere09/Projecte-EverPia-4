@@ -44,6 +44,9 @@ Ja saps que et trobes a les **últimes setmanes a EverPia**. I precisament per a
 
 Aquest projecte representa la darrera etapa del període de pràctiques internes dels alumnes dins l’empresa EverPia, on han estat treballant en qualitat de **junior IT** durant tot el trimestre.
 
+<p align="center">
+  <img src="img/capt5.png" alt="Descripció">
+</p>
 
 Ja saps que et trobes a les últimes setmanes a EverPia. I precisament per això vols acabar per la porta gran: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional.
 
