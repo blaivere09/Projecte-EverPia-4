@@ -5,8 +5,12 @@ Després de setmanes convivint amb el ritme imprevisible d’una consultora tecn
 
 A les consultores, la trajectòria professional segueix un patró gairebé universal:  
 **Qui entra com a júnior ho fa sense saber gaire què s’hi trobarà, però en surt transformat.**
-                                          ![captura1](img/capt1.png)
-                                          
+<p align="center">
+  <img src="![captura1](img/capt1.png)
+" alt="Descripció">
+</p>
+
+
 De sobte et veus apagant incendis, assumint tasques que no surten al contracte, donant suport a companys amb més anys que tu, resolent problemes d’origen desconegut i aprenent a una velocitat que no apareix a cap manual.
 
 Aquesta intensitat et fa créixer.  
