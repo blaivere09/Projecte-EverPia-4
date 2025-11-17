@@ -9,6 +9,6 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 - ⚡ **Accedir de manera immediata** als recursos més importants.
 
 ---
-[Tasca1]([URL](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca1))
+[Tasca1](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca1)
 
 
