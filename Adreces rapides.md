@@ -17,7 +17,7 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 
 [Tasca4](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T04)
 
-[Tasca5]()
+[Tasca5](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T05)
 
 [Tasca6]()
 
