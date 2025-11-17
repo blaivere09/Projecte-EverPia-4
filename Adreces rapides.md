@@ -9,14 +9,34 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 - ⚡ **Accedir de manera immediata** als recursos més importants.
 
 ---
-[Tasca1](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca1)
+[Tasca1]()
 
-[Tasca2](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca2)
+[Tasca2]()
 
-[Tasca3](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca3)
+[Tasca3]()
 
-[Tasca4](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca4)
+[Tasca4]()
 
-[Tasca5](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/Tasca5)
+[Tasca5]()
+
+[Tasca6]()
+
+[Tasca7]()
+
+[Tasca8]()
+
+[Tasca9]()
+
+[Tasca10]()
+
+[Tasca11]()
+
+[Tasca12]()
+
+[Tasca13]()
+
+[Tascaº4]()
+
+[Tasca15]()
 
 
