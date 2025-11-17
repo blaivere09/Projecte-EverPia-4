@@ -127,6 +127,11 @@ En acabar el projecte, l’alumne haurà lliurat:
 
 Un conjunt de productes que constitueixen una **carpeta de treball professional**, la millor prova del seu progrés i del seu futur potencial en el món IT.
 
+
+<p align="center">
+  <img src="img/capt6.png" alt="Descripció">
+</p>
+
 ---
 
 **No és caos: és experiència accelerada.**
