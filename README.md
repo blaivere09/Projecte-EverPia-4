@@ -30,7 +30,9 @@ Aquest projecte és la seva oportunitat per demostrar qui és després de tot el
 
 ![captura3](img/capt3.png)
 
-![captura4](img/capt4.png) Ja saps que et trobes a les últimes setmanes a EverPia. I precisament per això vols acabar per la porta gran: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional.
+Ja saps que et trobes a les últimes setmanes a EverPia. I precisament per això vols acabar per la porta gran: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional.
+
+![captura4](img/capt4.png) 
 
 Aquest projecte no és només un conjunt d’exercicis: és la seva carta de presentació abans de començar a caminar amb més autonomia, confiança i criteri propi.
 
