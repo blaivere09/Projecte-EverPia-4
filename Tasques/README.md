@@ -14,33 +14,22 @@ Aquesta carpeta serveix com a **referència i documentació** del projecte, per 
 
 ---
 
-[Tasca1](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T01)
+## 📝 Tasques del Projecte 4 - EverPia
 
-[Tasca2](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T02)
-
-[Tasca3](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T03)
-
-[Tasca4](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T04)
-
-[Tasca5](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T05)
-
-[Tasca6](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T06)
-
-[Tasca7](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T07)
-
-[Tasca8](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T08)
-
-[Tasca9](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T09)
-
-[Tasca10](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T10)
-
-[Tasca11](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T11)
-
-[Tasca12](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T12)
-
-[Tasca13](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13)
-
-[Tasca14](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14)
-
-[Tasca15](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15)
-
+| Nº Tasca | Nom de la Tasca       | Enllaç |
+|-----------|---------------------|--------|
+| 01        | Tasca 1             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T01) |
+| 02        | Tasca 2             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T02) |
+| 03        | Tasca 3             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T03) |
+| 04        | Tasca 4             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T04) |
+| 05        | Tasca 5             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T05) |
+| 06        | Tasca 6             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T06) |
+| 07        | Tasca 7             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T07) |
+| 08        | Tasca 8             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T08) |
+| 09        | Tasca 9             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T09) |
+| 10        | Tasca 10            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T10) |
+| 11        | Tasca 11            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T11) |
+| 12        | Tasca 12            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T12) |
+| 13        | Tasca 13            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13) |
+| 14        | Tasca 14            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14) |
+| 15        | Tasca 15            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15) |
