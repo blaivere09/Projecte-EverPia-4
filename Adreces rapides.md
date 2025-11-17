@@ -10,13 +10,17 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 
 ---
 
-# 📝 Tasques del Projecte 4 - EverPia
 
 
-  
+<table>
+<tr>
+<td valign="top">
+
+## 📝 Tasques del Projecte 4 - EverPia
+
 | Nº Tasca | Nom de la Tasca       | Enllaç |
 |-----------|---------------------|--------|
-| 01        | Tasca 1             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T01) |                                                                            
+| 01        | Tasca 1             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T01) |
 | 02        | Tasca 2             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T02) |
 | 03        | Tasca 3             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T03) |
 | 04        | Tasca 4             | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T04) |
@@ -33,9 +37,9 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 | 15        | Tasca 15            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15) |
 
 </td>
-<td>
+<td valign="top">
 
-### 🎯 Productes Finals
+## 🎯 Productes Finals
 
 | Nº Producte | Nom del Producte       | Enllaç |
 |-------------|----------------------|--------|
@@ -43,16 +47,9 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 | 02          | Producte Final 2      | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Productes%20finals/P02) |
 | 03          | Producte Final 3      | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Productes%20finals/P03) |
 
-
-
-
-
-
-
-
-
-
-
+</td>
+</tr>
+</table>
 
 
 
