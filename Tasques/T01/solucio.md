@@ -102,3 +102,22 @@
 - **NAS:** còpies ràpides i centralitzades (còpia més recent a l’oficina)  
 - **Cloud:** còpia addicional per recuperar dades fora del lloc en cas d’incident greu
 
+---
+
+# Fase 2: Treball per parelles
+
+## 1. Discussió i Consens
+- Hem estat generalment d’acord en les dades que desitgem emmagatzemar.  
+- Diferències principals sobre les carpetes dels usuaris:  
+  - Resposta 1: només copia de la carpeta **Documents**.  
+  - Resposta 2: còpia de **totes les carpetes personals**.  
+- Totalment d’acord en **no emmagatzemar tots els fitxers** innecessaris, només els fitxers importants.  
+- Diferències en la freqüència de còpies:  
+  - Resposta 1: còpies més sovint.  
+  - Resposta 2: còpies diàries però menys recurrents.  
+- Tipus de còpia: consens complet.
+
+---
+
+
+
