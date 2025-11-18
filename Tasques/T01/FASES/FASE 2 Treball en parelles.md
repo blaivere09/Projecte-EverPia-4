@@ -54,4 +54,4 @@ Disseny d’un **Esquema 3-2-1 de Còpies** basat en els requisits del cas (3 c�
 
 ---
 
-[FASE 3 Treball en grup](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASE%202%20Treball%20en%20parelles.md)
+[FASE 3 Treball en grup](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%203%20Treball%20en%20grup.md)
