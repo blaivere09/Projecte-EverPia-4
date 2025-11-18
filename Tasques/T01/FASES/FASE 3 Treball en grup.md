@@ -25,4 +25,7 @@ La **Política de Còpies de Seguretat Definitiva** per a l'empresa *Muntatges i
 
 > Aquesta política assegura la **disponibilitat i seguretat de les dades**, complint amb els requisits de l’empresa.
 
+---
+
+[FASE FINAL](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%203%20Treball%20en%20grup.md)
 
