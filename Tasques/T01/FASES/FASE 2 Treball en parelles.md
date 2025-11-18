@@ -52,3 +52,6 @@ Disseny d’un **Esquema 3-2-1 de Còpies** basat en els requisits del cas (3 c�
 | **Mitjà 1 (Local)** | NAS local | Permet accés ràpid a les còpies i restauració immediata en cas d’error o pèrdua de dades |
 | **Mitjà 2 (Extern)** | Cloud (còpia fora de l’empresa) | Protegeix contra desastres físics (incendis, robatoris) i garanteix la disponibilitat remota |
 
+---
+
+[FASE 3 Treball en grup](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASE%202%20Treball%20en%20parelles.md)
