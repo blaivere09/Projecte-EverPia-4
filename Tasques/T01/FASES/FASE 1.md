@@ -118,7 +118,7 @@
 - Tipus de còpia: consens complet.
 
 ---
-[FASE 2 PARELLES](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASE%202%20Treball%20en%20parelles.md)
+[FASE 2 PARELLES](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%202%20Treball%20en%20parelles.md)
 
 
 
