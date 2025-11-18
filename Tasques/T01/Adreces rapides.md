@@ -7,3 +7,11 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 - 📄 **Revisar** els treballs sense perdre temps buscant-los.
 - ✏️ **Corregir** o aportar comentaris fàcilment.
 - ⚡ **Accedir de manera immediata** als recursos més importants.
+---
+
+| FASES de la tasca | Enllaç |
+|------------------|--------|
+| Fase 1: Treball Individual | [Enllaç Fase 1](#) |
+| Fase 2: Treball en Parelles | [Enllaç Fase 2](#) |
+| Fase 3: Treball en Grup | [Enllaç Fase 3](#) |
+| Fase Final: Document Final | [Enllaç Fase Final](#) |
