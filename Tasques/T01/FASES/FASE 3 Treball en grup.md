@@ -27,5 +27,5 @@ La **Política de Còpies de Seguretat Definitiva** per a l'empresa *Muntatges i
 
 ---
 
-[FASE FINAL](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%203%20Treball%20en%20grup.md)
+[FASE FINAL](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%20FINAL.md)
 
