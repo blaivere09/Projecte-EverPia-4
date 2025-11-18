@@ -118,6 +118,6 @@
 - Tipus de còpia: consens complet.
 
 ---
-
+[FASE 2 PARELLES](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T01)
 
 
