@@ -12,6 +12,6 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 | FASES de la tasca | Enllaç |
 |------------------|--------|
 | Fase 1: Treball Individual | [Enllaç Fase 1](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%201.md) |
-| Fase 2: Treball en Parelles | [Enllaç Fase 2](#) |
+| Fase 2: Treball en Parelles | [Enllaç Fase 2](https://github.com/blaivere09/Projecte-EverPia-4/blob/main/Tasques/T01/FASES/FASE%202%20Treball%20en%20parelles.md) |
 | Fase 3: Treball en Grup | [Enllaç Fase 3](#) |
 | Fase Final: Document Final | [Enllaç Fase Final](#) |
