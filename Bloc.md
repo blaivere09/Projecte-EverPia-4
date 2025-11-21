@@ -17,8 +17,8 @@
 
 ## 🟧 Bloc Servidors — *SOX*
 - **[T08 — Auditoria i estàndards de servidors](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T08)**
-- **[T09 — NFS]([URL_DE_T09](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T09)**
-- **[T10 — CUPS]([URL_DE_T10](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T10)**
+- **[T09 — NFS](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T09)**
+- **[T10 — CUPS](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T10)**
 
 ---
 
