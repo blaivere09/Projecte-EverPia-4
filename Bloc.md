@@ -25,7 +25,7 @@
 ## 🟪 Bloc UX / Web — *Web*
 - **[T11 — Figma bàsic](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T11)**
 - **[T12 — Fonaments Landing + Checkout](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T12)**
-- **[T13 — E-commerce en Figma]([URL_DE_T13](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13)**
+- **[T13 — E-commerce en Figma](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13)**
 
 ---
 
