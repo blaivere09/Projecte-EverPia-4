@@ -7,7 +7,7 @@ A les consultores, la trajectòria professional segueix un patró gairebé unive
 **Qui entra com a júnior ho fa sense saber gaire què s’hi trobarà, però en surt transformat.**
 
 <p align="center">
-  <img src="img/capt1.png" alt="Descripció">
+  <img src="img-descripcio-projecte/capt1.png" alt="Descripció">
 </p>
 
 
@@ -21,7 +21,7 @@ Aquesta experiència accelerada et converteix en professional.
 I un dia, sense adonar-te’n, descobreixes que ja no ets el mateix júnior que va entrar per la porta amb por i il·lusió. Ara tens eines, criteri, documentació pròpia i una manera de mirar els problemes que només es guanya treballant molt i en silenci.
 
 <p align="center">
-  <img src="img/capt2.png" alt="Descripció">
+  <img src="img-descripcio-projecte/capt2.png" alt="Descripció">
 </p>
 
 Aquest projecte neix exactament d’aquí: d’aquell moment en què tu —com qualsevol treballador de consultoria— comences a intuir que estàs preparat per fer el salt.
@@ -35,17 +35,17 @@ Aquest projecte és la seva oportunitat per demostrar qui és després de tot el
 **No és un conjunt de tasques. És la seva carta de presentació professional.**
 
 <p align="center">
-  <img src="img/capt3.png" alt="Descripció">
+  <img src="img-descripcio-projecte/capt3.png" alt="Descripció">
 </p>
 
-<img src="img/capt4.png" alt="Il·lustració EverPia" align="left" width="150" style="margin-right: 15px; margin-bottom: 10px;">
+<img src="img-descripcio-projecte/capt4.png" alt="Il·lustració EverPia" align="left" width="150" style="margin-right: 15px; margin-bottom: 10px;">
 
 Ja saps que et trobes a les **últimes setmanes a EverPia**. I precisament per això vols acabar **per la porta gran**: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional. Aquest projecte no és només un conjunt d’exercicis: és la seva **carta de presentació** abans de començar a caminar amb més autonomia, confiança i criteri propi.
 
 Aquest projecte representa la darrera etapa del període de pràctiques internes dels alumnes dins l’empresa EverPia, on han estat treballant en qualitat de **junior IT** durant tot el trimestre.
 
 <p align="center">
-  <img src="img/capt5.png" alt="Descripció">
+  <img src="img-descripcio-projecte/capt5.png" alt="Descripció">
 </p>
 
 Ja saps que et trobes a les últimes setmanes a EverPia. I precisament per això vols acabar per la porta gran: demostrant que domina allò que fa uns mesos li semblava impossible, validant la seva capacitat de treball en equip i executant tasques que requereixen una mirada madura i professional.
@@ -129,7 +129,7 @@ Un conjunt de productes que constitueixen una **carpeta de treball professional*
 
 
 <p align="center">
-  <img src="img/capt6.png" alt="Descripció">
+  <img src="img-descripcio-projecte/capt6.png" alt="Descripció">
 </p>
 
 
