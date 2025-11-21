@@ -30,7 +30,7 @@
 ---
 
 ## 🟫 Bloc Sostenibilitat
-- **[T14 — Prova escrita (1h)]([URL_DE_T14](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14)**
+- **[T14 — Prova escrita (1h)](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14)**
 - **[T15 — Circularitat família professional (1h)](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15)**
 
 
