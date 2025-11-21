@@ -53,7 +53,7 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 
 
 
-https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T16
+
 
 
 
