@@ -35,7 +35,7 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 | 13        | Tasca 13            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T13) |
 | 14        | Tasca 14            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T14) |
 | 15        | Tasca 15            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T15) |
-
+| 16        | Tasca 16            | [Accedeix](https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T16) |
 </td>
 <td valign="top">
 
@@ -53,7 +53,7 @@ Aquí trobaràs tots els **enllaços essencials** que necessites per accedir **r
 
 
 
-
+https://github.com/blaivere09/Projecte-EverPia-4/tree/main/Tasques/T16
 
 
 
