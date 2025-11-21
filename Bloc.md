@@ -1,7 +1,6 @@
 # 📚 Tasques per Blocs i Assignatures
 
 ## 🟦 Bloc Backup i Recuperació (DRP) — *Seguretat*
-- **[T00 — Presentació + Kanban + GitHub](URL_DE_T00)**
 - **[T01 — DRP: cas client](URL_DE_T01)**
 - **[T02 — DRP: cas pràctic](URL_DE_T02)**
 - **[T03 — Imatges del sistema (Rescuezilla)](URL_DE_T03)**
