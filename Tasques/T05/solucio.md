@@ -92,5 +92,9 @@ Ara configurarem el **túnel de SOCKS** 🧦
 |----------|----------|----------|
 | ![captura10](img/capt10.png) | ![captura11](img/capt11.png) | ![captura12](img/capt12.png) |
 
+---
 
+Amb Wireshark podem comprovar que tot el trànsit que generem s’envia per **SSH** al servidor. Podem veure les comunicacions entre `127.0.2.7` (IP del client) i `192.168.56.101` (IP del servidor).
+
+![captura13](img/capt13.png)
 
