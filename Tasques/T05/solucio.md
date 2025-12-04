@@ -98,3 +98,16 @@ Amb Wireshark podem comprovar que tot el trànsit que generem s’envia per **SS
 
 ![captura13](img/capt13.png)
 
+---
+
+Seguint el vídeo de **Carlos Alonso**.
+
+![captura14](img/capt14.png)
+
+![captura15](img/capt15.png)
+
+![captura16](img/capt16.png)
+
+![captura17](img/capt17.png)
+
+
