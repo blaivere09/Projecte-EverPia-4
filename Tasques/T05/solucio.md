@@ -42,3 +42,17 @@ ssh usuari@[ip]
 ```
 
 ![captura4](img/capt4.png)
+
+---
+
+Si volem **desactivar l’ús de l’usuari root** en connexions SSH per garantir una major seguretat, haurem d’editar el fitxer:
+
+```bash
+/etc/ssh/sshd_config
+```
+
+![captura5](img/capt5.png)
+
+![captura6](img/capt6.png)
+
+---
