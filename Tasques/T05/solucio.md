@@ -83,3 +83,9 @@ ssh -D 9876 usuari@192.168.56.101
 ```
 
 ![captura9](img/capt9.png)
+
+---
+
+Ara configurarem el **túnel de SOCKS** 🧦
+
+
