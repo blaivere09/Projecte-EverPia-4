@@ -11,4 +11,6 @@ A continuació, instal·larem **SSH**:
 ```bash
 sudo apt upgrade && sudo apt update && sudo apt install ssh -y
 
+```
+![captura1](img/capt1.png)
 
