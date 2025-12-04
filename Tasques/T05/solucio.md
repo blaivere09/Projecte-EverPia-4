@@ -29,3 +29,16 @@ sudo systemctl start ssh
 sudo systemctl status ssh
 
 ![captura3](img/capt3.png)
+
+---
+
+Un cop hem identificat la **IP del nostre servidor**, haurem d’instal·lar i configurar un **client Windows**.  
+
+Després, accedirem al terminal **PowerShell** i, des d’allà, ens podrem connectar al servidor mitjançant **SSH**:
+
+```powershell
+ssh usuari@[ip]
+
+```
+
+![captura4](img/capt4.png)
