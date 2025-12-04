@@ -60,3 +60,14 @@ Si volem **desactivar l’ús de l’usuari root** en connexions SSH per garanti
 Fent això, indiquem que el **port de connexió** és el **20** (`Port 20`) i que no es permetin connexions com a **root** (`PermitRootLogin prohibit-password`).
 
 ![captura7](img/capt7.png)
+
+---
+
+Per fer comprovació, crearem un **nou usuari** (`usuari2`) i provarem de connectar-nos per SSH amb aquest:
+
+```bash
+sudo adduser usuari2
+ssh usuari2@192.168.56.101
+```
+
+![captura8](img/capt8.png)
