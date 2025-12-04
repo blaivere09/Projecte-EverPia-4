@@ -119,7 +119,5 @@ Com podem veure, al fer una connexió **SSH** no em demana la contrasenya.
 
 ---
 
-<div style="text-align: center;">
-Fet per **Blai Vergés**
-</div>
+Fet per Blai Vergés
 
