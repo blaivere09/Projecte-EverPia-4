@@ -14,3 +14,4 @@ sudo apt upgrade && sudo apt update && sudo apt install ssh -y
 ```
 ![captura1](img/capt1.png)
 
+![captura2](img/capt2.png)
