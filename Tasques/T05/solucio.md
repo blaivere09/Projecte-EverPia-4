@@ -56,3 +56,7 @@ Si volem **desactivar l’ús de l’usuari root** en connexions SSH per garanti
 ![captura6](img/capt6.png)
 
 ---
+
+Fent això, indiquem que el **port de connexió** és el **20** (`Port 20`) i que no es permetin connexions com a **root** (`PermitRootLogin prohibit-password`).
+
+![captura7](img/capt7.png)
