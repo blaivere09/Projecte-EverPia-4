@@ -105,9 +105,21 @@ Seguint el vídeo de **Carlos Alonso**.
 ![captura14](img/capt14.png)
 
 ![captura15](img/capt15.png)
+---
+
+Anem al servidor **Linux**:
 
 ![captura16](img/capt16.png)
+---
+Comprovació des del **client**:
 
 ![captura17](img/capt17.png)
 
+Com podem veure, al fer una connexió **SSH** no em demana la contrasenya.
+
+---
+
+<div style="text-align: center;">
+Fet per **Blai Vergés**
+</div>
 
