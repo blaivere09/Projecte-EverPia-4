@@ -71,3 +71,15 @@ ssh usuari2@192.168.56.101
 ```
 
 ![captura8](img/capt8.png)
+
+---
+
+Com podem veure, tenim **accés denegat**. ❌
+
+Ara tot el trànsit del client s’envia com si fos el servidor, però si volem afegir una **redirecció dinàmica** (dynamic forwarding), ens hem de connectar amb una variació de la comanda:
+
+```bash
+ssh -D 9876 usuari@192.168.56.101
+```
+
+![captura9](img/capt9.png)
