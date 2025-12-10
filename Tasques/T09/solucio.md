@@ -162,3 +162,12 @@ sudo mount -t nfs 10.0.2.0:/srv/nfs/admin_tools /mnt/admin_tools/
 ![captura16](img/capt16.png)
 
 ---
+
+## ✅ Comprovació dels arxius muntats
+
+Comprovem que els arxius estan disponibles al directori on els hem muntat.  
+Podem fer aquesta verificació utilitzant comandes com `ls` o bé mitjançant la interfície gràfica (GUI).
+
+![captura17](img/capt17.png)
+
+---
