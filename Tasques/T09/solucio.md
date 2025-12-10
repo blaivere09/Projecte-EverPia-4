@@ -77,3 +77,15 @@ ls -la /srv/nfs/
 
 ---
 
+## ⚙️ Instal·lació del servei NFS
+
+Instal·larem el servei NFS amb la següent comanda:
+
+```bash
+sudo apt install nfs-kernel-server
+
+```
+
+![captura8](img/capt8.png)
+
+---
