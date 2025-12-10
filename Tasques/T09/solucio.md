@@ -43,3 +43,14 @@ sudo useradd -m -G devs dev01
 sudo useradd -m -G admins admin01
 
 ![captura4](img/capt4.png)
+
+---
+
+## 📁 Creació de directoris
+
+Crearem els directoris `admin_tools` i `dev_projectes`:
+
+
+
+![captura5](img/capt5.png)
+
