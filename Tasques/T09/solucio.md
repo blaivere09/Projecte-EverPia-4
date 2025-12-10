@@ -134,4 +134,6 @@ En el servidor modificarem l’arxiu `/etc/exports` per poder exportar el nostre
 sudo nano /etc/exports
 
 ```
+![captura13](img/capt13.png)
 
+---
