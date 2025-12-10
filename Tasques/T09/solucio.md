@@ -19,3 +19,16 @@ ip a
 ![captura1](img/capt1.png)
 
 ![captura2](img/capt2.png)
+
+---
+
+## 👥 Creació de grups al servidor
+
+Crearem dos grups: `devs` i `admins`:
+
+```
+sudo groupadd devs  
+sudo groupadd admins
+
+```
+![captura3](capt3.png)
