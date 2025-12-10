@@ -197,3 +197,19 @@ Des del servidor, afegim una nova línia a l’arxiu `/etc/exports` per definir 
 ![captura19](img/capt19.png)
 
 ---
+
+## 👤 Prova amb l'usuari dev01
+
+Iniciem sessió com `dev01` i provem de crear un fitxer dins del directori muntat:
+
+```bash
+su - dev01
+# Introdueix la contrasenya de dev01
+touch /mnt/dev_projectes/prova_dev.txt
+ls -l /mnt/dev_projectes/
+
+```
+
+**fet per Blai Vergés*
+
+---
