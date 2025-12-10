@@ -104,3 +104,11 @@ Ara, al client haurem de configurar els usuaris i grups amb les mateixes UID i G
 Per fer-ho, anotarem aquests identificadors del nostre servidor.
 
 ![captura10](img/capt10.png)
+
+---
+
+## ✅ Verificació
+
+![captura11](img/capt11.png)
+
+---
