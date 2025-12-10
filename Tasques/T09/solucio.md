@@ -123,3 +123,15 @@ sudo apt install nfs-common -y
 ```
 
 ![captura12](img/capt12.png)
+
+---
+
+## ✏️ Configuració de l'exportació al servidor
+
+En el servidor modificarem l’arxiu `/etc/exports` per poder exportar el nostre directori:
+
+```bash
+sudo nano /etc/exports
+
+```
+
