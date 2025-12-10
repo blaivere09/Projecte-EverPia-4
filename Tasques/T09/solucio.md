@@ -97,3 +97,10 @@ Habilitarem i iniciarem el servei amb les següents comandes:
 ![captura9](img/capt9.png)
 
 ---
+
+## 🖥️ Configuració al client
+
+Ara, al client haurem de configurar els usuaris i grups amb les mateixes UID i GID.  
+Per fer-ho, anotarem aquests identificadors del nostre servidor.
+
+![captura10](img/capt10.png)
