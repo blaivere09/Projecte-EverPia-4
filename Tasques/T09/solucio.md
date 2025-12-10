@@ -184,3 +184,16 @@ sudo nano /etc/fstab
 ![captura18](img/capt18.png)
 
 ---
+
+
+## ✅ Finalització de la configuració
+
+Ara ja tindríem un sistema complet on els fitxers del servidor es comparteixen amb el client, respectant els permisos de cada grup per a les carpetes.
+
+Com a pas final, caldrà fer el mateix amb el directori de `devs`: muntar-lo i configurar-lo.
+
+Des del servidor, afegim una nova línia a l’arxiu `/etc/exports` per definir la configuració d’aquest directori.
+
+![captura19](img/capt19.png)
+
+---
