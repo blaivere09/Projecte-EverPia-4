@@ -31,4 +31,15 @@ sudo groupadd devs
 sudo groupadd admins
 
 ```
-![captura3](capt3.png)
+![caaptura3](img/capt3.png)
+
+---
+
+## 👤 Creació d'usuaris
+
+Crearem dos usuaris i els assignarem als grups corresponents:
+
+sudo useradd -m -G devs dev01  
+sudo useradd -m -G admins admin01
+
+![captura4](img/capt4.png)
