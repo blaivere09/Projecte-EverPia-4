@@ -136,4 +136,7 @@ sudo nano /etc/exports
 ```
 ![captura13](img/capt13.png)
 
+
+![captura14](img/capt14.png)
+
 ---
