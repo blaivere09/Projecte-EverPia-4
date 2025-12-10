@@ -112,3 +112,14 @@ Per fer-ho, anotarem aquests identificadors del nostre servidor.
 ![captura11](img/capt11.png)
 
 ---
+
+## ⚙️ Instal·lació del servei NFS al client
+
+Ara instal·larem el servei necessari:
+
+```bash
+sudo apt install nfs-common -y
+
+```
+
+![captura12](img/capt12.png)
