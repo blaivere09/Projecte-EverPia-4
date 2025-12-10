@@ -149,3 +149,16 @@ Des del client podem verificar que el servidor està exportant el directori:
 ![captura15](img/capt15.png)
 
 ---
+
+## 📂 Muntatge del directori del servidor
+
+I podem muntar el directori del servidor dins d’un dels directoris del client, de manera que els fitxers remots quedin accessibles com si formessin part del seu propi sistema de fitxers:
+
+```bash
+sudo mount -t nfs 10.0.2.0:/srv/nfs/admin_tools /mnt/admin_tools/
+
+```
+
+![captura16](img/capt16.png)
+
+---
