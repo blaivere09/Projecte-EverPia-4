@@ -171,3 +171,16 @@ Podem fer aquesta verificació utilitzant comandes com `ls` o bé mitjançant la
 ![captura17](img/capt17.png)
 
 ---
+
+## ⚙️ Configuració del muntatge automàtic al client
+
+Ara configurem el client perquè la carpeta es munti automàticament en iniciar la sessió, editant l’arxiu `/etc/fstab`:
+
+```bash
+sudo nano /etc/fstab
+
+```
+
+![captura18](img/capt18.png)
+
+---
