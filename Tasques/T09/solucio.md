@@ -89,3 +89,11 @@ sudo apt install nfs-kernel-server
 ![captura8](img/capt8.png)
 
 ---
+
+## ▶️ Habilitació i inici del servei NFS
+
+Habilitarem i iniciarem el servei amb les següents comandes:
+
+![captura9](img/capt9.png)
+
+---
