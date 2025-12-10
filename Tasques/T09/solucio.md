@@ -54,3 +54,13 @@ Crearem els directoris `admin_tools` i `dev_projectes`:
 
 ![captura5](img/capt5.png)
 
+---
+
+## 🔒 Assignació de permisos
+
+El grup `devs` tindrà control total sobre els seus projectes, i el grup `admins` tindrà control total sobre les seves eines.  
+L’usuari propietari serà `root` en tots dos casos.
+
+![captura6](img/capt6.png)
+
+---
