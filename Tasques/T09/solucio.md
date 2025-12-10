@@ -64,3 +64,16 @@ L’usuari propietari serà `root` en tots dos casos.
 ![captura6](img/capt6.png)
 
 ---
+
+## 🔍 Comprovació de permisos
+
+Utilitzarem la següent comanda per comprovar els permisos:
+
+```bash
+ls -la /srv/nfs/
+
+```
+![captura7](img/capt7.png)
+
+---
+
