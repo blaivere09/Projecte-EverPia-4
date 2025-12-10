@@ -140,3 +140,12 @@ sudo nano /etc/exports
 ![captura14](img/capt14.png)
 
 ---
+
+
+## 🔍 Verificació de l'exportació des del client
+
+Des del client podem verificar que el servidor està exportant el directori:
+
+![captura15](img/capt15.png)
+
+---
