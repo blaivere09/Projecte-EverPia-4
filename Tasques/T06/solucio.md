@@ -25,6 +25,7 @@ Es pot fer des de:
 **Configuració → Comptes → Afegir un nou compte → Sense un compte de Microsoft**  
 i seguir les instruccions que apareixen.
 
+En el meu cas, ja tinc un **usuari creat**.
 
 ![captura4](img/capt4.png)
 
