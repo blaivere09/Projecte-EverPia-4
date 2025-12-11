@@ -5,3 +5,6 @@ Per realitzar aquesta pràctica necessitarem **dues màquines virtuals**: una am
 Abans de començar, farem **comprovacions inicials** utilitzant `ping`. Tingues en compte que cal **desactivar el firewall de Windows**, si no, la connexió no funcionarà correctament!
 
 
+![captura1](img/capt1.png)
+
+![captura2](img/capt2.png)
