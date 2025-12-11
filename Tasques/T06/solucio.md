@@ -84,3 +84,4 @@ Acceptem i ja hem entrat dins
 
 ---
 
+**fet per blai vergés*
