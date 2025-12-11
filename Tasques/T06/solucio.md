@@ -36,4 +36,12 @@ Provarem de connectar-nos a lâ€™escriptori remot de Windows; per fer-ho, hem dâ€
 
 ![captura5](img/capt5.png)
 
+
+
+![captura6](img/capt6.png)
+
+
+
+![captura7](img/capt7.png)
+
 ---
