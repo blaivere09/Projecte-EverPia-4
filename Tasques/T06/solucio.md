@@ -30,3 +30,11 @@ En el meu cas, ja tinc un **usuari creat**.
 ![captura4](img/capt4.png)
 
 ---
+
+
+Ara haurem d’entrar a la **segona VM**, una màquina amb Zorin.  
+Provarem de connectar-nos a l’escriptori remot de Windows; per fer-ho, hem d’obrir **Remmina**.
+
+![captura5](img/capt5.png)
+
+---
