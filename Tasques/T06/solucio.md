@@ -58,3 +58,29 @@ Després, estableix les dades d’accés segons sigui necessari.
 ![captura8](img/capt8.png)
 
 ---
+Des de **Windows**, ara podem connectar-nos a **Zorin** mitjançant l’**Escriptori remot**.  
+Obrim l’aplicació i introduïm les **dades d’accés**.
+
+![captura9](img/capt9.png)
+
+---
+
+- **Equip:** `usuari-VirtualBox.local`, tal com vam observar abans quan vam configurar l’escriptori remot a Zorin.  
+- **Usuari:** `usuari`, ja que és el que vam definir a Zorin.
+
+![captura10](img/capt10.png)
+
+---
+
+Introduïm la contrasenya que hem definit a la configuració a zorin.
+
+![captura11](img/capt11.png)
+
+---
+
+Acceptem i ja hem entrat dins
+
+![captura12](img/capt12.png)
+
+---
+
