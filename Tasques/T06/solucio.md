@@ -45,3 +45,16 @@ Provarem de connectar-nos a l’escriptori remot de Windows; per fer-ho, hem d�
 ![captura7](img/capt7.png)
 
 ---
+
+
+Ara activarem el **control remot** a Zorin.  
+
+1. Accedeix a **Configuració → Compartir**.  
+2. Activa **"Compartir pantalla"**.  
+3. Activa **"Control remot"** i defineix una **contrasenya**.  
+
+Després, estableix les dades d’accés segons sigui necessari.
+
+![captura8](img/capt8.png)
+
+---
