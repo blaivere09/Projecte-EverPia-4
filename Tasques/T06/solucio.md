@@ -18,3 +18,14 @@ Això es fa des de **Configuració → Sistema → Escriptori remot**.
 
 ---
 
+A més, podrem **afegir usuaris d’escriptori remot**.
+
+**IMPORTANT:** Cal crear un **nou usuari** per poder connectar-nos si no en tenim cap.  
+Es pot fer des de:  
+**Configuració → Comptes → Afegir un nou compte → Sense un compte de Microsoft**  
+i seguir les instruccions que apareixen.
+
+
+![captura4](img/capt4.png)
+
+---
