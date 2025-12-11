@@ -8,3 +8,13 @@ Abans de començar, farem **comprovacions inicials** utilitzant `ping`. Tingues 
 ![captura1](img/capt1.png)
 
 ![captura2](img/capt2.png)
+
+---
+
+Com a primer pas, cal disposar d’una **màquina virtual amb Windows** i habilitar l’**escriptori remot**.  
+Això es fa des de **Configuració → Sistema → Escriptori remot**.
+
+![captura3](img/capt3.png)
+
+---
+
