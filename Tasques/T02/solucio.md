@@ -81,4 +81,6 @@ També haurem d’indicar la ruta de la carpeta on volem guardar les dades. Per 
 
 ![captura19](img/19.png)
 
+![captura20](img/20.png)
+
 
