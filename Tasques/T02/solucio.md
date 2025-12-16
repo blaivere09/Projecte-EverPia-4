@@ -136,5 +136,9 @@ lsblk
 ```
 ![captura29](img/29.png)
 
-
+Creem una partició sobre el nou disc amb la comanda:
+```
+sudo fdisk /dev/sdb
+```
+![captura30](img/30.png)
 
