@@ -126,5 +126,7 @@ i despres hem de fer el maiteix procediment pero amb el Backup del Drive.
 
 igual que a la maquina de Windows, ara tambe crearem un disc a la nostra VM.
 
+![captura28](img/28.png)
+
 
 
