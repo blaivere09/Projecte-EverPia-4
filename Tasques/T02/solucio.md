@@ -216,3 +216,21 @@ ls -lh
 
 ![captura40](img/40.png)
 
+Crearem la copia amb duplicity, ens demana un passphrase (contrasenya) la qual la xifrarà.
+```
+sudo duplicity /home file:///media/backup/home-backup
+```
+
+![captura41](img/41.png)
+
+Al finalitzar, podem observar que hi ha al directori destí.
+
+![captura42](img/42.png)
+
+Seguidament esborrarem els arxius de prova creats anteriorment per veure si els pot restaurar correctament.
+```
+sudo rm fitxer1 fitxer2 fitxer3 fitxer4
+ls
+```
+
+![captura43](img/43.png)
