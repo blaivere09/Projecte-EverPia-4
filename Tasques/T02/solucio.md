@@ -55,3 +55,7 @@ Seguidament, haurem d’afegir l’opció **passphrase** per introduir una contr
 Ara podrem observar com ja tenim aquest backup creat correctament, l’executarem per provar el correcta funcionament.
 
 ![captura13](img/13.png)
+
+Un cop el procés ha finalitzat si obrim l’explorador d’arxius podem observar com s’han guardat les dades de forma xifrades.
+
+![captura14](img/14.png)
