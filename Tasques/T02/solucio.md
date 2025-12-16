@@ -73,3 +73,12 @@ Un cop avancem, haurem de vincular Duplicati amb Google Drive. Per fer-ho, farem
 
 ![captura17](img/17.png)
 
+I iniciarem la sessió amb el nostre compte de Google (nou).
+
+![captura18](img/18.png)
+
+També haurem d’indicar la ruta de la carpeta on volem guardar les dades. Per fer-ho, introduirem la URL al camp **Ruta de la carpeta**.
+
+![captura19](img/19.png)
+
+
