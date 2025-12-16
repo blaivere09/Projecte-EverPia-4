@@ -99,4 +99,7 @@ Executem el backup de Google Drive per fer un test.
 
 ![captura23](img/23.png)
 
+Al finalitzar podrem confirmar el correcta funcionament revisant la carpeta de google drive.
+
+![captura24](img/24.png)
 
