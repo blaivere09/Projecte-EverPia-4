@@ -192,3 +192,12 @@ duplicity –version
 ```
 
 ![captura37](img/37.png)
+
+
+Crearem dos usuaris, asegurant-nos que tenen directoris personals.
+```
+sudo adduser usuari1
+sudo adduser usuari2
+```
+
+![captura38](img/38.png)
