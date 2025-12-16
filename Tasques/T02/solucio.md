@@ -270,3 +270,57 @@ df -h | grep backup
 ```
 
 ![captura47](img/47.png)
+
+
+Ara automatitzarem tots aquest procesos amb la comanda:
+```
+sudo nano /root/fullbackup.sh
+```
+````
+#!/bin/bash
+
+mount /dev/sdb1 /media/backup
+
+export PASSPHRASE="la_teva_contrasenya"
+
+duplicity full /home file:///media/backup/home-backup
+
+unset PASSPHRASE
+
+umount /media/backup
+
+````
+![captura48](img/48.png)
+
+Ara donem permisos d’execució a aquest script.
+```
+sudo chmod +x /root/fullbackup.sh
+```
+I el provem manualment
+````
+sudo /root/fullbackup.sh
+````
+
+![captura49](img/49.png)
+
+
+Si no dóna errors, està bé.​
+
+Ara programarem l'execució amb cron.
+````
+sudo crontab -e
+````
+````
+I afegim aquesta línea al final:
+````
+0 23 * * 0 /root/fullbackup.sh
+````
+````
+![captura50](img/50.png)
+
+Desem els canvis amb
+````
+sudo crontab -l
+````
+
+![captura51](img/51.png)
