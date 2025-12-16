@@ -234,3 +234,27 @@ ls
 ```
 
 ![captura43](img/43.png)
+
+
+Ara restaurarem els arxius amb duplicity
+```
+sudo duplicity restore file:///media/backup/home-backup /home/restored
+ls /home/restored/usuari
+```
+
+![captura44](img/44.png)
+
+Executarem la mateixa comanda d’abans per crear la còpia.
+```
+sudo duplicity /home file:///media/backup/home-backup
+```
+
+![captura45](img/45.png)
+
+
+Podem veure l’informació del backup
+```
+sudo duplicity collection-status file:///media/backup/home-backup
+```
+
+![captura46](img/46.png)
