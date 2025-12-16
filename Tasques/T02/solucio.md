@@ -175,3 +175,20 @@ sudo mount /dev/sdb1 /media/backup
 ```
 
 ![captura35](img/35.png)
+
+
+Per comprovar si està muntat correctament utilitzarem la comanda:
+
+```
+df -h | grep backup
+```
+![captura36](img/36.png)
+
+
+Ara instal·larem duplicity, l’eina per automatitzar les còpies.
+```
+sudo apt install duplicity -y
+duplicity –version
+```
+
+![captura37](img/37.png)
