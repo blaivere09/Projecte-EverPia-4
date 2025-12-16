@@ -103,3 +103,8 @@ Al finalitzar podrem confirmar el correcta funcionament revisant la carpeta de g
 
 ![captura24](img/24.png)
 
+Ara farem algunes proves de les còpies i restauració, crearem un arxiu dins la ruta del usuari.
+
+Crearem un arxiu dins el nostre directori personal amb la comanda:
+
+fsutil file createnew C:\Users\[USUARI]\Documents\test1.txt 10485760
