@@ -128,5 +128,13 @@ igual que a la maquina de Windows, ara tambe crearem un disc a la nostra VM.
 
 ![captura28](img/28.png)
 
+Un cop dins la maquina hem de verificar que el detecti.
+
+```
+lsblk
+
+```
+![captura29](img/29.png)
+
 
 
