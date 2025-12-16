@@ -258,3 +258,15 @@ sudo duplicity collection-status file:///media/backup/home-backup
 ```
 
 ![captura46](img/46.png)
+
+Ara desmontem l’unitat
+```
+sudo umount /media/backup
+```
+
+I comprovem
+```
+df -h | grep backup
+```
+
+![captura47](img/47.png)
