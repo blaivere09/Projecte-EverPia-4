@@ -122,4 +122,4 @@ i despres hem de fer el maiteix procediment pero amb el Backup del Drive.
 
 ---
 
-Part 2: Còpia seguretat servidor Linux
+
