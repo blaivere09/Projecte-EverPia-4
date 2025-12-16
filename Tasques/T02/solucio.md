@@ -367,3 +367,4 @@ sudo crontab -l
 ````
 ![captura53](img/54.png)
 
+***fet per Blai Vergés***
