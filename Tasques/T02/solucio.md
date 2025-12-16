@@ -68,3 +68,8 @@ Crearem un nou backup, però aquest cop seleccionarem com a destinació **Google
 
 ![captura16](img/16.png)
 
+
+Un cop avancem, haurem de vincular Duplicati amb Google Drive. Per fer-ho, farem clic sobre l’enllaç **AuthID**.
+
+![captura17](img/17.png)
+
