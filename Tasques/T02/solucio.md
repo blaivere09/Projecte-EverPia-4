@@ -154,3 +154,24 @@ Un cop aparegui el **menú de `fdisk`**, seguirem els següents passos:
 
 ![captura32](img/32.png)
 
+Formategem el disc en format XFS, pero primer de tot haurem d’instal·lar el servei XFS
+```
+sudo apt install xfsprogs
+```
+
+![captura33](img/33.png)
+
+```
+sudo mkfs.xfs /dev/sdb1
+```
+
+![captura34](img/34.png)
+
+Acte seguit crearem una carpeta i muntarem el disc a aquesta.
+
+```
+sudo mkdir -p /media/backup
+sudo mount /dev/sdb1 /media/backup
+```
+
+![captura35](img/35.png)
