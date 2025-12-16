@@ -84,3 +84,12 @@ També haurem d’indicar la ruta de la carpeta on volem guardar les dades. Per 
 ![captura20](img/20.png)
 
 
+Seleccionem les mateixes dades com abans.
+
+![captura21](img/21.png)
+
+Definim quan s’executarà, diariament a les 18:00
+
+![captura22](img/22.png)
+
+
