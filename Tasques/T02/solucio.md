@@ -201,3 +201,18 @@ sudo adduser usuari2
 ```
 
 ![captura38](img/38.png)
+
+
+Ara crearem 4 fitxers de 10 MB dins el directori que hem creat anteriorment. for i in 1 2 3 4; do sudo dd if=/dev/zero of=fitxer$i bs=1M count=10; done
+
+![captura39](img/39.png)
+
+
+Comprovem amb 
+
+```
+ls -lh
+```
+
+![captura40](img/40.png)
+
