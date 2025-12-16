@@ -93,3 +93,10 @@ Definim quan s’executarà, diariament a les 18:00
 ![captura22](img/22.png)
 
 
+Afegirem l'opció **passphrase**, igual que abans, amb una contrasenya, i també **snapshot-policy**.
+
+Executem el backup de Google Drive per fer un test.
+
+![captura23](img/23.png)
+
+
