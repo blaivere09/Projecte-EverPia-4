@@ -142,3 +142,15 @@ sudo fdisk /dev/sdb
 ```
 ![captura30](img/30.png)
 
+
+Un cop aparegui el **menú de `fdisk`**, seguirem els següents passos:
+
+1. **`n`** → Crear una nova partició.  
+2. **`p`** → Seleccionar que sigui una partició primària.  
+3. Prem **Enter** tres vegades per acceptar els valors per defecte.  
+4. **`w`** → Guardar els canvis i sortir de `fdisk`.
+
+![captura31](img/31.png)
+
+![captura31](img/31.png)
+
