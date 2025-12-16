@@ -325,40 +325,6 @@ sudo crontab -l
 
 ![captura51](img/51.png)
 
-Ara crearem un altre script que farà el mateix però fent una còpia incremental
-```
-sudo nano /root/incrementalbackup.sh
-```
-![captura52](img/52.png)
 
-Desem i sortim
-
-Donem permisos d’execució a l’script
-````
-sudo chmod +x /root/incrementalbackup.sh
-````
-El provem manualment
-````
-sudo /root/incrementalbackup.sh
-````
-
-![captura53](img/53.png)
-
-Ara afegim aquest script al cron també, tornem com a root a crontab
-````
-sudo crontab -e
-````
-
-A sota de la línia anterior, afegim:
-````
-0 23 * * 1-6 /root/incrementalbackup.sh
-````
-![captura54](img/54.png)
-
-Acte seguit desem els canvis amb:
-````
-sudo crontab -l
-````
-![captura55](img/55.png)
 
 
