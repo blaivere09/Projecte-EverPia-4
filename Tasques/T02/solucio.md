@@ -109,3 +109,6 @@ Crearem un arxiu dins el nostre directori personal amb la comanda:
 ```
 fsutil file createnew C:\Users\[USUARI]\Documents\test1.txt 10485760
 ```
+
+![captura25](img/25.png)
+
