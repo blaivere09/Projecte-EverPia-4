@@ -325,6 +325,11 @@ sudo crontab -l
 
 ![captura51](img/51.png)
 
+Ara crearem un altre script que farà el mateix però fent una còpia incremental
+````
+sudo nano /root/incrementalbackup.sh
+````
+![captura52](img/52.png)
 
 
 
