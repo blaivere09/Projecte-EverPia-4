@@ -152,5 +152,5 @@ Un cop aparegui el **menú de `fdisk`**, seguirem els següents passos:
 
 ![captura31](img/31.png)
 
-![captura31](img/31.png)
+![captura32](img/32.png)
 
