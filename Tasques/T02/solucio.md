@@ -124,4 +124,7 @@ i despres hem de fer el maiteix procediment pero amb el Backup del Drive.
 
 # Part 2: Còpia seguretat servidor Linux
 
+igual que a la maquina de Windows, ara tambe crearem un disc a la nostra VM.
+
+
 
