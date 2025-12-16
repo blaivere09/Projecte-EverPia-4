@@ -65,3 +65,6 @@ Un cop el procés ha finalitzat si obrim l’explorador d’arxius podem observa
 Ara veurem com fer còpies de seguretat a Google Drive.
 
 Crearem un nou backup, però aquest cop seleccionarem com a destinació **Google Drive**.
+
+![captura16](img/16.png)
+
