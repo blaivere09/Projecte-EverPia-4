@@ -112,3 +112,14 @@ fsutil file createnew C:\Users\[USUARI]\Documents\test1.txt 10485760
 
 ![captura25](img/25.png)
 
+Seguidament farem una còpia des de duplicati, borrarem aquest arxiu i restaurarem desde l’eina.
+
+![captura26](img/26.png)
+
+![captura27](img/27.png)
+
+i despres hem de fer el maiteix procediment pero amb el Backup del Drive.
+
+---
+
+Part 2: Còpia seguretat servidor Linux
