@@ -7,3 +7,9 @@ En primer lloc he posat el adaptador de xarxa en NAT i el 2n en adaptador ANFITR
 [capt1](img/1.png)
 
 [capt2](img/2.png)
+
+Farem el maiteix amb la maquina de CLIENT.
+
+[capt3](img/3.png)
+
+[capt4](img/4.png)
