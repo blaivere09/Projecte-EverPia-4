@@ -13,3 +13,13 @@ Farem el maiteix amb la maquina de CLIENT.
 [capt3](img/3.png)
 
 [capt4](img/4.png)
+
+ Instal·lació de CUPS al servidor
+
+Abans d'instal·lar **CUPS**, primer actualitzem el sistema per assegurar-nos que tots els paquets estan al dia. Executem la següent comanda:
+
+```bash
+sudo apt update -y && sudo apt upgrade -y
+```
+
+[capt5](img/5.png)
