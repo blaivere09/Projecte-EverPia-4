@@ -112,3 +112,20 @@ Explicació:
 
 [capt11](img/11.png)
 
+
+## 5. Afegir la impressora al client Zorin
+
+Per afegir la impressora, cal obrir **Administración**, que es troba a la barra superior d’opcions.
+
+Si apareix de nou la pàgina d’advertència de lloc no segur, fem el mateix procediment anterior, però aquesta vegada haurem d’iniciar sessió amb les credencials del nostre client.
+
+[capt12](img/12.png)
+
+Un cop dins, seleccionarem l’opció de afegir una impresora
+
+[capt13](img/13.png)
+
+
+Quan accedim, no es deixara fer res per falta de permisos
+
+[capt14](img/14.png)
