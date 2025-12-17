@@ -129,3 +129,18 @@ Un cop dins, seleccionarem l’opció de afegir una impresora
 Quan accedim, no es deixara fer res per falta de permisos
 
 [capt14](img/14.png)
+
+
+
+Afegir l'usuari inicial al grup lpadmin
+
+Un cop fet això, cal tornar a la terminal i afegir l’usuari inicial al grup **lpadmin**:
+
+```bash
+usermod -aG lpadmin usuari
+id usuari  # Per comprovar
+```
+
+[capt15](img/15.png)
+
+
