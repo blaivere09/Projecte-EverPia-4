@@ -50,3 +50,23 @@ apt install cups-pdf
 ```
 [capt7](img/7.png)
 
+
+Configuració de l’administració de CUPS i permetre que CUPS escolti per totes les interfícies
+
+Abans de modificar l’arxiu de configuració, és recomanable fer-ne una còpia de seguretat.
+
+Per editar l’arxiu, utilitzem la comanda:
+
+```bash
+sudo nano /etc/cups/cupsd.conf
+```
+
+Un cop dins, cal canviar aquestes dues línies:
+
+```bash
+Listen localhost:631 → Port 631
+Browsing No → Browsing On
+```
+
+[capt8](img/8.png)
+
