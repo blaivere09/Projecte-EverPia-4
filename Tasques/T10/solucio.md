@@ -81,3 +81,34 @@ A més, cal permetre l’accés des de la xarxa local al servidor web de gestió
 
 [capt9](img/9.png)
 
+Aqui es pot veure com ja he cambiat manualment la configuració.
+
+
+Reinici del servei de CUPS
+
+Un cop modificat el fitxer de configuració, reiniciem el servei de CUPS i comprovem que funcioni correctament:
+
+```bash
+systemctl restart cups && systemctl status cups
+```
+
+[capt10](img/10.png)
+
+
+4. Usant el navegador i el frontal web de CUPS per compartir la impressora
+
+Un cop el servei estigui funcionant, hem d’obrir el navegador i introduir la següent adreça a la barra de cerca:
+
+```bash
+https://10.0.2.15:631
+```
+
+Explicació:
+
+* `10.0.2.15` → La IP del nostre adaptador de xarxa `enp0s3`
+* `631` → El port que hem configurat anteriorment
+
+> Si apareix un avís que indica que el lloc no és segur, cal seleccionar **Avanzado** i després **Acceder a 10.0.2.15 (sitio no seguro)**
+
+[capt11](img/11.png)
+
