@@ -70,3 +70,14 @@ Browsing No → Browsing On
 
 [capt8](img/8.png)
 
+
+
+
+A més, cal permetre l’accés des de la xarxa local al servidor web de gestió. Afegim o modifiquem les següents seccions dins del fitxer:
+
+```bash
+<Location
+```
+
+[capt9](img/9.png)
+
