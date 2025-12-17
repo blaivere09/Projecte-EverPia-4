@@ -33,3 +33,20 @@ sudo apt install cups -y
 ```
 
 [capt6](img/6.png)
+
+
+Instal·lar impressora virtual
+
+Per instal·lar la nostra impressora virtual, entrem com a **root** al nostre client amb la comanda:
+
+```bash
+sudo su
+```
+
+Un cop som root, instal·lem la impressora virtual amb:
+
+```bash
+apt install cups-pdf
+```
+[capt7](img/7.png)
+
