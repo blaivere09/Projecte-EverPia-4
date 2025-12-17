@@ -123,13 +123,12 @@ Si apareix de nou la pàgina d’advertència de lloc no segur, fem el mateix pr
 
 Un cop dins, seleccionarem l’opció de afegir una impresora
 
-![capt13](img/13.png)
 
 
 Quan accedim, no es deixara fer res per falta de permisos
 
-![capt14](img/14.png)
 
+![capt13](img/13.png)
 
 
 Afegir l'usuari inicial al grup lpadmin
@@ -140,7 +139,7 @@ Un cop fet això, cal tornar a la terminal i afegir l’usuari inicial al grup *
 usermod -aG lpadmin usuari
 id usuari  # Per comprovar
 ```
+![capt14](img/14.png)
 
-[capt15](img/15.png)
 
 
