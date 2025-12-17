@@ -12,7 +12,7 @@ Farem el maiteix amb la maquina de CLIENT.
 
 [capt3](img/3.png)
 
-[capt4](/img/4.png)
+[capt4](./img/4.png)
 
  Instal·lació de CUPS al servidor
 
