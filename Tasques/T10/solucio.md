@@ -23,3 +23,13 @@ sudo apt update -y && sudo apt upgrade -y
 ```
 
 [capt5](img/5.png)
+
+```
+````
+Un cop finalitzat el procés d'actualització, ja podem instal·lar **CUPS** amb la següent comanda:
+
+```bash
+sudo apt install cups -y
+```
+
+[capt6](img/6.png)
